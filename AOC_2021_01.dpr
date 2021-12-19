@@ -13,7 +13,8 @@ begin
     // Github configured
 
     writeln('Le programme fonctionne');
-    write('Pressez une touche');
+    Writeln('...mais ne fait toujours rien :-)');
+    write('Pressez ENTRER');
     readln;
   except
     on E: Exception do
