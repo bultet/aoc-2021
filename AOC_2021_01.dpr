@@ -13,7 +13,6 @@ begin
     // Github configured
 
     writeln('Le programme fonctionne');
-    Writeln('...mais ne fait toujours rien :-)');
     write('Pressez ENTRER');
     readln;
   except
