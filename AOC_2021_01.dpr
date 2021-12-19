@@ -12,7 +12,7 @@ begin
     // Day 1 : sonar sweep
     // Github configured
 
-    writeln('Le programme fonctionne');
+    writeln('Day 1 : sonar sweep');
     write('Pressez ENTRER');
     readln;
   except
