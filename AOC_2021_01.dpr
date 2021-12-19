@@ -13,6 +13,7 @@ begin
     // Github configured
 
     writeln('Le programme fonctionne');
+    write('Pressez une touche');
     readln;
   except
     on E: Exception do
