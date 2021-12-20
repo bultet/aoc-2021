@@ -36,6 +36,7 @@ begin
       Readln(F, val);
       i := val.ToInteger;
       if i>val_prec then inc(increment);
+      val_prec := i;
 
     until eof(F);
 
